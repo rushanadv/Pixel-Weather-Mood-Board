@@ -1,0 +1,6 @@
+{
+  "name": "Weather Mood Visualizer",
+  "description": "Real-time generative art canvas driven by abstract weather moods, Perlin noise flow fields, and interactive physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
